@@ -1,2 +1,2 @@
-# oposiciones
-Civil Servant Exams Practice
+# Oposiciones
+Repositorio de prácticas.
