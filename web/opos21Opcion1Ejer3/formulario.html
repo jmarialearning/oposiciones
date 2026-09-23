@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <script>
+
+        </script>
+    </head>
+    <h1>Formulario</h1>
+    <form action="/guardar_libros.php">
+        <label for="codigo">Código ISBN:</label>
+        <input type="text" name="codigo" pattern="\d{10,13}" required/>
+        <label for="nombre">Nombre del libro:</label>
+        <input type="text" name="nombre" placeholder="Sira" pattern="\w{5,22}" required/>
+        <label for="autor">Autor:</label>
+        <input type="text" name="autor" pattern="\w{5,40}" required oninvalid="this.setCustomValidity('Tienes que poner el nombre de uno que sea de otro planeta')" oninput="this.setCustomValidity('')"/>
+        <label for="fecha">Fecha de publicación:</label>
+        <input type="date" name="fecha"/>
+        <label for="genero">Género:</label>
+        <select name="genero" id="genero">
+            <option value="" selected></option>
+            <option value="novelaNegra">Novela negra</option>
+            <option value="novelaHistorica">Novela histórica</option>
+            <option value="romantica">Romántica</option>
+            <option value="thrillerHorror">Thriller y Horror</option>
+        </select>
+        <label for="paginas">Número de páginas:</label>
+        <input type="number" name="paginas" min="10" max="999"/>
+        <label for="precio">Precio del libro:</label>
+        <input type="number" name="precio" step="0.01" required/>
+        <input type="submit" value="Enviar"/>
+    </form>
+</html>
