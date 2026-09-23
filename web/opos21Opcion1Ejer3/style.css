@@ -1,19 +1,57 @@
-header, footer{
+html{
+    font-size: medium;
+    font-weight: bold;
+    height: 100%;
+    text-align: center;
+}
+header,footer{
     background-color: grey;
-    width: 100%;
-    height: 10%;
+
 }
 section{
-    width: 50%;
-    height: 80%;
+    flex: 1;
 }
 #noticias{
-    background-color: rgb(209,214,214);
-    align-self: left;
-    margin-left: 0%;
+    background-color: rgb(209, 214, 214);
 }
 #anuncios{
-    background-color: rgb(173, 173, 173);
-    align-self: right;
-    margin-right: 0%;
+    background-color: rgb(173,173,173);
+}
+header{
+    width: 100%;
+    height: 15%;
+}
+footer{
+    height: 10%;
+    position: relative;
+}
+#container{
+    display: flex;
+    height: 70%;
+    margin: 0;
+    padding: 0;
+}
+section p {
+    padding-top: 2%;
+    margin: 0%;
+}
+header p, footer p{
+    padding-top: 2%;
+    margin: 0%;
+}
+@media (max-width: 699px){
+    footer{
+        display: none;
+    }
+    #container{
+        height: 80%;
+        margin: 0;
+        padding: 0;
+    }
+    section{
+        flex-direction: column;
+    }
+    header{
+        height: 20%;
+    }
 }
