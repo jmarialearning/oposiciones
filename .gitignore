@@ -2,3 +2,6 @@
 *.out
 *.bin
 *.fake
+*.o
+*.so
+*.a
