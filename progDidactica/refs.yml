@@ -18,3 +18,58 @@ realDecretoFP:
   title: Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional
   date: 2023
   page-total: 175
+realDecreto6925:
+  type: legislation
+  title: Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones
+  date: 2025
+  page-total: 22
+realDecretoTitulo:
+  type: legislation
+  title: Real Decreto 450/2010, de 16 de abril, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus enseñanzas mínimas
+  date: 2010
+  page-total: 71
+modGradoSuperior:
+  type: legislation
+  title: Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas
+  date: 2024
+  page-total: 250
+decreto91:
+  type: legislation
+  title: Decreto 91/2024, de 5 de junio, del Gobierno de Aragón por el que se establece la Ordenación de la Formación Profesional del Grado D y del Grado E en la Comunidad Autónoma de Aragón
+  date: 2024
+  page-total: 155
+modificacionDecreto:
+  type: legislation
+  title: Decreto 107/2025, de 10 de septiembre, del Gobierno de Aragón, por el que se modifica el Decreto 91/2024, de 5 de junio, del Gobierno de Aragón por el que se establece la Ordenación de la Formación Profesional del Grado D y del Grado E en la Comunidad Autónoma de Aragón y las Órdenes ECD/842/2024 y ECD/843/2024, ambas de 25 de julio, por las que se regulan aspectos organizativos del currículo y se establecen los currículos de determinados Ciclos Formativos de Formación Profesional de Grado Medio y Grado Superior, respectivamente, para la Comunidad Autónoma de Aragón
+  date: 2025
+  page-total: 94
+ordenGS:
+  type: legislation
+  title: Orden ECD/843/2024, de 25 de julio, por la que se regulan aspectos organizativos del currículo y se establecen los currículos de determinados Ciclos Formativos de Formación Profesional de Grado Superior para la Comunidad Autónoma de Aragón
+  date: 2024
+  page-total: 234
+instruccionesInicio:
+  type: legislation
+  title: Orden ECU/1066/2026, de 7 de julio, por la que se aprueban las instrucciones para los Centros Públicos Integrados de Formación Profesional de la Comunidad Autónoma de Aragón para el curso 2026/2027
+  date: 2026
+  page-total: 54
+decretoInclusionAntiguo:
+  type: legislation
+  title: Decreto 188/2017, de 28 de noviembre, del Gobierno de Aragón, por el que se regula la respuesta educativa inclusiva y la convivencia en las comunidades educativas de la Comunidad Autónoma de Aragón
+  date: 2017
+  page-total: 16
+decretoInclusion:
+  type: legislation
+  title: Decreto 164/2022, de 16 de noviembre, del Gobierno de Aragón, por el que se modifica el Decreto 188/2017, de 28 de noviembre, del Gobierno de Aragón, por el que se regula la respuesta educativa inclusiva y la convivencia en las comunidades educativas de la Comunidad Autónoma de Aragón
+  date: 2022
+  page-total: 5
+ordenAntiguaActuaciones:
+  type: legislation
+  title: Orden ECD/1005/2018, de 7 de junio, por la que se regulan las actuaciones de intervención educativa inclusiva
+  date: 2018
+  page-total: 58
+modOrdActuaciones:
+  type: legislation
+  title: Orden ECD/913/2023, de 11 de julio, por la que se modifica la Orden ECD/1004/2018, de 7 de junio, por la que se regula la Red Integrada de Orientación Educativa en los centros docentes no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Aragón, y la Orden ECD/1005/2018, de 7 de junio, por la que se regulan las actuaciones de intervención educativa inclusiva
+  date: 2023
+  page-total: 55
